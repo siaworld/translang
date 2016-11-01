@@ -1,0 +1,2 @@
+# translang
+Slang Translator
